@@ -1,0 +1,11 @@
+.idea
+.allure
+logs
+target
+
+.idea/**
+.allure/**
+logs/**
+target/**
+
+**/*.iml
